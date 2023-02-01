@@ -1,0 +1,14 @@
+# mac
+.DS_store
+
+# log
+*.log
+
+# cache
+.cache/
+
+# node_modules
+node_modules/
+
+# build
+dist/
