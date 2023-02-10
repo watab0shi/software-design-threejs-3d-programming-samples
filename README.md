@@ -1,4 +1,4 @@
-# Software Design 2023年3月号「three.jsでお手軽3Dプログラミング」
+# Software Design 連載「three.jsでお手軽3Dプログラミング」
 
 記事内で紹介しているサンプルコードです。
 
