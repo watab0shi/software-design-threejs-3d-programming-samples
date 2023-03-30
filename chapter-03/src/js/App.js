@@ -39,7 +39,7 @@ class App {
     enter() {
         const from = new THREE.Vector3(0, 0, 0);
         const to = new THREE.Vector3(1, 1, 1);
-        gsap.fromTo(this.group.scale, from, { ...to, ease: 'back', duration: 1.5 });
+        gsap.fromTo(this.group.scale, from, { ...to, ease: 'back.out', duration: 1.5 });
     }
 
     render() {
