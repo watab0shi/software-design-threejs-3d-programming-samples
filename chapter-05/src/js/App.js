@@ -62,7 +62,7 @@ class App {
         window.addEventListener('scroll', this.onScroll.bind(this));
     }
 
-    onScroll() {更新
+    onScroll() {
         this.scroller.position.y = window.scrollY;
     }
 
