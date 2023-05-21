@@ -35,7 +35,7 @@ class App {
         const geometry = new THREE.PlaneGeometry(1, 1, 32, 32);
         const material = new THREE.ShaderMaterial({
             uniforms: {
-                uTime: { value: 0.0 },
+                uTime: { value: 0.0 }
             },
             vertexShader,
             fragmentShader,
